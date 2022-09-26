@@ -1,0 +1,41 @@
+tags html:
+
+<!DOCTYPE html>
+<html lang="pt-br">
+</html>
+
+head:
+ title: titulo da pagina/aba
+ style: informações do tema do site
+
+
+body: conteudo do corpo do site
+
+ <div>como containers/layouts em apps</div> 
+
+ <header>cabeçalho</header>
+
+ <footer>rodapé</footer>
+
+ <p>paragrafo</p>
+
+ <br> break, quebra de linha
+
+ <hr> divisor, divider
+ <hX>sendo X um numero, maior o numero,  menor o tamanho da fonte. Basicamente é  um titulo para o corpo do site, indo de 1  a 5</hX>
+
+ <ol>ordered list, lista ordenada, coloca  marcadores numerados para cada item da  lista</ol>
+ 
+ <ul>lista nao ordenada, coloca  marcadores para cada item</ul>
+  
+ <li>list item, item da lista (ol/ul) </li>
+ 
+ <img src="endereço-da-imagem.extensão"  width="largura px" height="altura px">
+
+ <table>
+  <th>Cabeçalho da tela</th>
+  <tr>linha de cada tabela</tr>
+  <td>coluna de cada tabela</td>
+ </table>
+
+ <a href="link-para-site">Nome do  link</a>
